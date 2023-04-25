@@ -1,0 +1,24 @@
+body {
+    display: grid;
+    width: 100%;
+    justify-items: center;
+    padding: 20px;
+    background-image: linear-gradient( rgb(137, 137, 170), rgb(1, 1, 52), rgb(137, 137, 170));
+}
+
+.pic {
+    display: grid;
+    justify-items: center;
+    width: 1000px;
+    background-image: linear-gradient(rgb(1, 1, 52), rgb(137, 137, 170), rgb(1, 1, 52));
+    justify-content: center;
+    padding: 20px;
+    color: rgb(234, 238, 242);
+    border-radius: 20px;
+}
+
+img {
+    width: 80%;
+    padding: 5px;
+    border-radius: 15px;
+}
